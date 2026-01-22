@@ -1,0 +1,1 @@
+This dataset contains the power coefficient of a vertical axis wind turbine with NACA 0021 airfoil. Using NACA 0021 as the baseline, we generated an airfoil dataset via Latin hypercube sampling and computed the average power through numerical simulation.
